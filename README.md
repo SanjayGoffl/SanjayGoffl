@@ -135,7 +135,7 @@ I actively participate in **hackathons, open-source projects, and AI experiments
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sanjay-blue?style=flat-square&logo=linkedin">
 </a>
 
-<a href="mailto:jaagath1234@gmail.com">
+<a href="mailto:sanjayguruvayurappan@gmail.com">
 <img alt="Email" src="https://img.shields.io/badge/Email-Sanjay-blue?style=flat-square&logo=gmail">
 </a>
 
